@@ -24,9 +24,9 @@ single-turn T2I generation.
 
 [Demo Video](https://youtu.be/HPgJ4xPRnto) , [Paper Link](https://openreview.net/pdf?id=xsmlrhoQzC)
 
-![Alt Text](Fig1.pdf)
+![Alt Text](Fig.png)
 
-## Stay Tuned for Code Release
+## Stay Tuned for Code Release!
 
 ## License
 

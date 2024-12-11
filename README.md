@@ -22,7 +22,7 @@ alignment with at least 2 times higher VQAScore (Lin et al., 2024) than the stan
 single-turn T2I generation. 
 
 
-[Demo Video](https://www.youtube.com/watch?v=HQgjLWp4Lo8) , [Paper Link](https://openreview.net/pdf?id=xsmlrhoQzC)
+[Demo Video](https://www.youtube.com/watch?v=HQgjLWp4Lo8) , [Paper Link](https://arxiv.org/abs/2412.06771)
 
 ![Alt Text](Fig.png)
 

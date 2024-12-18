@@ -26,6 +26,27 @@ single-turn T2I generation.
 
 ![Alt Text](Fig.png)
 
+## DesignBench Dataset
+
+### Data Info
+The dataset includes 30 images containing different objects and scenes. 
+
+The images have been sourced from www.unsplash.com, www.pexels.com, www.freepik.com (the licenses for the images are listed below).
+
+Out of the 30 images: 8 of these images contain animals, 9 images contain humans or partial human figures, 15 images contain only inanimate objects and 2 contain only a scene. The dataset contains a variable number of subjects (1-8) per image. Images are captured in different conditions, environments and under different angles.We include a file dataset/prompts_and_classes.json which contains two types of prompts per image: a lengthy detailed prompt and a short concise prompt lacking details. These are the prompts used in the paper for all experiments using DesignBench. The images have been sourced from www.unsplash.com, www.pexels.com, www.freepik.com.
+
+### Data Access
+
+`dataset/prompts_and_classes.json` file contains a list of all the image names, reference links to the images, and a short and long prompt per image. The images have been cropped from their original form to directly download the cropped version of the photos that was used in the paper visit `dataset/images/` 
+
+### Licenses
+**Unsplash**: 
+Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use images from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile images from Unsplash to replicate a similar or competing service.
+
+**Pexels**: All photos and videos uploaded on Pexels are licensed under the Pexels license. This means you can use them for free for personal and commercial purposes without attribution. For more information read the following questions in this guide, or refer to our license page or our Terms of Service.
+
+**FreePik**: Freepik and Flaticon PDF licenses allow you to use our resources without crediting the author and these will remain active even when your Premium or Premium+ subscription has expired.Please remember to download the license PDF files and keep them in a safe place. We recommend you to download them right after downloading the file.https://support.freepik.com/s/article/How-to-download-Freepik-premium-licenses?language=en_US
+
 ## Stay Tuned for Code Release!
 
 ## License

@@ -37,7 +37,7 @@ Out of the 30 images: 8  contain animals, 9 images contain humans or partial hum
 
 ### Data Access
 
-`dataset/prompts_and_classes.json` file contains a list of all the image names, reference links to the images, and a short and long prompt per image. The images have been cropped from their original form to directly download the cropped version of the photos that was used in the paper visit `dataset/images/` 
+`designbench/prompts_and_classes.json` file contains a list of all the image names, reference links to the images, and a short and long prompt per image. The images have been cropped from their original form to directly download the cropped version of the photos that was used in the paper visit `designbench/images/` 
 
 ### Licenses
 **Unsplash**: 

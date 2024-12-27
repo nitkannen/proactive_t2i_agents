@@ -16,15 +16,15 @@ helpful for their T2I workflow. Moreover, we use a scalable automated evaluation
 approach using two agents, one with a ground truth image and the other tries to
 ask as few questions as possible to align with the ground truth. On DesignBench, a
 benchmark we created for artists and designers, the COCO dataset (Lin et al., 2014)
-and ImageInWords (Garg et al., 2024), we observed that these T2I agents were able
+and ImageInWords ([Garg et al., 2024](https://arxiv.org/abs/2405.02793)), we observed that these T2I agents were able
 to ask informative questions and elicit crucial information to achieve successful
-alignment with at least 2 times higher VQAScore (Lin et al., 2024) than the standard
+alignment with at least 2 times higher VQAScore ([Lin et al., 2024](https://arxiv.org/abs/2404.01291)) than the standard
 single-turn T2I generation. 
 
 
 [Demo Video](https://www.youtube.com/watch?v=HQgjLWp4Lo8) , [Paper Link](https://arxiv.org/abs/2412.06771)
 
-![Alt Text](Fig.png)
+![Alt Text](figures/Fig.png)
 
 ## DesignBench Dataset
 

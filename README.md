@@ -53,6 +53,19 @@ Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to
 **FreePik**: Freepik and Flaticon PDF licenses allow you to use our resources without crediting the author and these will remain active even when your Premium or Premium+ subscription has expired.Please remember to download the license PDF files and keep them in a safe place. We recommend you to download them right after downloading the file.https://support.freepik.com/s/article/How-to-download-Freepik-premium-licenses?language=en_US
 
 
+## Citing this work
+If you find this code useful, please cite our paper
+```
+@misc{hahn2024proactive,
+    title={Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty},
+    author={Meera Hahn and Wenjun Zeng and Nithish Kannen and Rich Galt and Kartikeya Badola and Been Kim and Zi Wang},
+    year={2024},
+    eprint={2412.06771},
+    archivePrefix={arXiv},
+    primaryClass={cs.AI}
+}
+
+```
 ## License
 
 
@@ -65,4 +78,8 @@ All other materials are licensed under the Creative Commons Attribution 4.0 Inte
 Unless required by applicable law or agreed to in writing, all software and materials distributed here under the Apache 2.0 or CC-BY licenses are distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the licenses for the specific language governing permissions and limitations under those licenses.
 
 This is not an official Google product.
+
+## Contact
+
+Please direct any questions to quest_for_agency@google.com
 

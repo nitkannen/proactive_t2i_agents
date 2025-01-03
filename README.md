@@ -22,9 +22,14 @@ alignment with at least 2 times higher VQAScore ([Lin et al., 2024](https://arxi
 single-turn T2I generation. 
 
 
-[Demo Video](https://www.youtube.com/watch?v=HQgjLWp4Lo8) , [Paper Link](https://arxiv.org/abs/2412.06771)
+[Demo Video](https://www.youtube.com/watch?v=HQgjLWp4Lo8) , [Paper Link](https://arxiv.org/abs/2412.06771),  [Demo notebook](https://github.com/google-deepmind/proactive_t2i_agents/blob/main/agent_demo.ipynb)
 
 ![Alt Text](figures/Fig.png)
+
+# Agent code
+
+The ```agent/``` directory contains the implementation of the proposed agent that is powered by Gemini 1.5 Pro. The [agent_demo.ipynb](https://github.com/google-deepmind/proactive_t2i_agents/blob/main/agent_demo.ipynb) notebook can be used to play with our the agent!
+
 
 ## DesignBench Dataset
 
@@ -47,7 +52,6 @@ Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to
 
 **FreePik**: Freepik and Flaticon PDF licenses allow you to use our resources without crediting the author and these will remain active even when your Premium or Premium+ subscription has expired.Please remember to download the license PDF files and keep them in a safe place. We recommend you to download them right after downloading the file.https://support.freepik.com/s/article/How-to-download-Freepik-premium-licenses?language=en_US
 
-## Stay Tuned for Code Release!
 
 ## License
 

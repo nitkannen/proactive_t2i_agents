@@ -26,7 +26,7 @@ single-turn T2I generation.
 
 ![Alt Text](figures/Fig.png)
 
-# Agent code
+## Proactive Agent code
 
 The ```agent/``` directory contains the implementation of the proposed agent that is powered by Gemini 1.5 Pro. The [agent_demo.ipynb](https://github.com/google-deepmind/proactive_t2i_agents/blob/main/agent_demo.ipynb) notebook can be used to play with our the agent!
 

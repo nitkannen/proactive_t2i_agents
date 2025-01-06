@@ -1,4 +1,4 @@
-# Proactive Agents for Multi-Turn Text-to-Image Generation under Uncertainty
+# [Proactive Agents for Multi-Turn Text-to-Image Generation under Uncertainty](https://arxiv.org/abs/2412.06771)
 
 
 User prompts for generative AI models are often underspecified or open-ended,

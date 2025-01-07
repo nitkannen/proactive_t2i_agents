@@ -81,5 +81,5 @@ This is not an official Google product.
 
 ## Contact
 
-Please direct any questions to quest_for_agency@google.com
+Please direct any questions to quest-for-agency@google.com
 

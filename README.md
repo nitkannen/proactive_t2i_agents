@@ -6,7 +6,6 @@ User prompts for generative AI models are often underspecified, leading to a mis
 
 [Demo Video](https://www.youtube.com/watch?v=HQgjLWp4Lo8)
 
-![Alt Text](figures/Fig.png)
 
 ## Proactive Agent code
 

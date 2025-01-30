@@ -9,7 +9,7 @@ User prompts for generative AI models are often underspecified, leading to a mis
 
 ## Proactive Agent code
 
-The ```agent/``` directory contains the implementation of the proposed agent that is powered by Gemini 1.5 Pro.
+The ```agent/``` directory contains the implementation of the proposed agent
 
 
 ## DesignBench Dataset
